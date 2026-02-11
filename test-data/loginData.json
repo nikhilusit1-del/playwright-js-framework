@@ -1,0 +1,12 @@
+[
+  {
+    "email": "admin@shophub.com",
+    "password": "admin123",
+    "type": "positive"
+  },
+  {
+    "email": "wrong@shophub.com",
+    "password": "wrong123",
+    "type": "negative"
+  }
+]
